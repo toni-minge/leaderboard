@@ -9,8 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "antd": "^5.0.5",
+    "ethers": "^5.7.2",
+    "ipfs-http-client": "^59.0.0",
+    "ipfs-mini": "^1.1.5",
     "next": "13.0.6",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-webcam": "^7.0.1",
+    "web3": "^1.8.1"
   }
 }
